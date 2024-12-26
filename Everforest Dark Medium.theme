@@ -1,0 +1,30 @@
+# name: 'Everforest Dark Medium'
+# url: 'https://github.com/cafecitohippo/fish'
+# preferred_background: 232a2e
+
+fish_color_normal d3c6aa
+fish_color_command a7c080
+fish_color_param e67e80
+fish_color_keyword 83c092
+fish_color_quote 7fbbb3
+fish_color_redirection d699b6
+fish_color_end e69875
+fish_color_comment 3a515d
+fish_color_error e67e80
+fish_color_gray 859289
+fish_color_selection --background=232a2e
+fish_color_search_match --background=232a2e
+fish_color_option a7c080
+fish_color_operator d699b6
+fish_color_escape dbbc7f
+fish_color_autosuggestion 7a8478
+fish_color_cancel e67e80
+fish_color_cwd e69875
+fish_color_user 83c092
+fish_color_host 7fbbb3
+fish_color_host_remote a7c080
+fish_color_status e69875
+fish_pager_color_progress 7a8478
+fish_pager_color_prefix d699b6
+fish_pager_color_completion d3c6aa
+fish_pager_color_description 7a8478
